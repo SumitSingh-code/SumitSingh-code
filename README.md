@@ -4,15 +4,15 @@
 
 # SUMIT SINGH
 
-### Full-Stack Developer · Product Builder · MyGov Campus Ambassador
+### Full-Stack Developer · Product Builder · Campus Ambassador
 
 **Turning ideas into products, and bringing technology to campus life.**
 
 I build practical web applications, digital products and community-focused experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SumitSingh--code-181717?style=for-the-badge&logo=github)](https://github.com/SumitSingh-code)
+[![UniGram](https://img.shields.io/badge/UniGram-Live-111827?style=for-the-badge&logo=googlechrome)](https://unigrajind.site/)
 [![Sumit Labs](https://img.shields.io/badge/Sumit_Labs-Explore-111827?style=for-the-badge&logo=vercel)](https://sumit-labs.vercel.app/)
-[![VetanX](https://img.shields.io/badge/VetanX-Visit-F0B429?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://vetanx.site/)
 
 </div>
 
@@ -22,27 +22,31 @@ I build practical web applications, digital products and community-focused exper
 
 I'm **Sumit Singh**, a BCA student at **Chaudhary Ranbir Singh University (CRSU), Jind, Haryana, India**. I enjoy taking ideas from concept to launch—building software, exploring product design and contributing to student tech communities.
 
-- 🇮🇳 **MyGov Campus Ambassador** — Campus Ambassador Programme
-- 💼 **Web Development Intern** — MG Education (45-day internship)
+- 🇮🇳 **MyGov Campus Ambassador**
+- 💡 **Microsoft Campus Ambassador**
+- 🏆 **1st Place — Smart India Hackathon (SIH) Internal Round**
 - 🏆 **Winner — Dear Romeo: The Prompt Challenge**, for the Romeo matchmaking project
-- 🎤 **Campus tech community** — involved in organizing and participating in university hackathons and workshops
+- 💼 **Web Development Intern** — MG Education (45-day internship)
+- 🎤 Involved in organizing and participating in university hackathons and workshops at CRSU
 - 🚀 Building independent products and experiments through **Sumit Labs**
-- 🌱 Currently learning, shipping and improving through hands-on projects
 
 ## Experience & Highlights
 
 | Experience | Details |
 |---|---|
 | MyGov Campus Ambassador | Campus Ambassador Programme |
+| Microsoft Campus Ambassador | Campus Ambassador Programme |
+| Smart India Hackathon | 1st place in the internal round |
 | Web Development Intern | MG Education · 45-day internship |
-| Hackathon / Prompt Challenge | Dear Romeo: The Prompt Challenge · Winner |
+| Dear Romeo: The Prompt Challenge | Winner · Romeo matchmaking project |
 | Campus Tech Activities | University hackathons and workshops at CRSU |
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| [UniGram](https://github.com/SumitSingh-code/Campusbuddy) | Student-focused campus platform for notices, study resources, lost & found and anonymous posts |
+| [UniGram](https://unigrajind.site/) | **My flagship campus project** — a student platform for campus notices, study resources, lost & found and anonymous posts |
+| [UniGram GitHub](https://github.com/SumitSingh-code/Campusbuddy) | Source repository for UniGram |
 | [VetanX](https://vetanx.site/) | Employee salary and workforce management platform |
 | [Romeo](https://github.com/SumitSingh-code/romeo) | Matchmaking project created for the Dear Romeo prompt challenge |
 | [School ERP System](https://github.com/SumitSingh-code/School-ERP-System) | School management and ERP application |
@@ -70,6 +74,7 @@ I'm **Sumit Singh**, a BCA student at **Chaudhary Ranbir Singh University (CRSU)
 ## Let's Connect
 
 - **GitHub:** [@SumitSingh-code](https://github.com/SumitSingh-code)
+- **UniGram:** [unigrajind.site](https://unigrajind.site/)
 - **Sumit Labs:** [sumit-labs.vercel.app](https://sumit-labs.vercel.app/)
 - **VetanX:** [vetanx.site](https://vetanx.site/)
 
