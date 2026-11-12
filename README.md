@@ -11,7 +11,7 @@
 I build practical web applications, digital products and community-focused experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SumitSingh--code-181717?style=for-the-badge&logo=github)](https://github.com/SumitSingh-code)
-[![UniGram](https://img.shields.io/badge/UniGram-Live-111827?style=for-the-badge&logo=googlechrome)](https://unigrajind.site/)
+[![UniGram](https://img.shields.io/badge/UniGram-Live-111827?style=for-the-badge&logo=googlechrome)](https://unigramjind.site/)
 [![Sumit Labs](https://img.shields.io/badge/Sumit_Labs-Explore-111827?style=for-the-badge&logo=vercel)](https://sumit-labs.vercel.app/)
 
 </div>
@@ -25,7 +25,7 @@ I'm **Sumit Singh**, a BCA student at **Chaudhary Ranbir Singh University (CRSU)
 - 🇮🇳 **MyGov Campus Ambassador**
 - 💡 **Microsoft Campus Ambassador**
 - 🏆 **1st Place — Smart India Hackathon (SIH) Internal Round**
-- 🏆 **Winner — Dear Romeo: The Prompt Challenge**, for the Romeo matchmaking project
+- 🏆 **Winner — Dear Romeo: The Prompt Challenge**, for designing a **Romeo & Juliet matchmaking algorithm**
 - 💼 **Web Development Intern** — MG Education (45-day internship)
 - 🎤 Involved in organizing and participating in university hackathons and workshops at CRSU
 - 🚀 Building independent products and experiments through **Sumit Labs**
@@ -38,19 +38,19 @@ I'm **Sumit Singh**, a BCA student at **Chaudhary Ranbir Singh University (CRSU)
 | Microsoft Campus Ambassador | Campus Ambassador Programme |
 | Smart India Hackathon | 1st place in the internal round |
 | Web Development Intern | MG Education · 45-day internship |
-| Dear Romeo: The Prompt Challenge | Winner · Romeo matchmaking project |
+| Dear Romeo: The Prompt Challenge | Winner · Romeo & Juliet matchmaking algorithm |
 | Campus Tech Activities | University hackathons and workshops at CRSU |
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| [UniGram](https://unigrajind.site/) | **My flagship campus project** — a student platform for campus notices, study resources, lost & found and anonymous posts |
+| [UniGram](https://unigramjind.site/) | **My flagship campus project** — a student platform for campus notices, study resources, lost & found and anonymous posts |
 | [UniGram GitHub](https://github.com/SumitSingh-code/Campusbuddy) | Source repository for UniGram |
 | [VetanX](https://vetanx.site/) | Employee salary and workforce management platform |
-| [Romeo](https://github.com/SumitSingh-code/romeo) | Matchmaking project created for the Dear Romeo prompt challenge |
+| [Romeo & Juliet Matchmaking Algorithm](https://rj-hazel-one.vercel.app/) | Matchmaking algorithm designed for the Dear Romeo: The Prompt Challenge |
 | [School ERP System](https://github.com/SumitSingh-code/School-ERP-System) | School management and ERP application |
-| [Ashoka Hotel](https://github.com/SumitSingh-code/ashoka-hotel) | Website and digital presence for a hospitality business |
+| [Ashoka Hotel — Website & Offline Billing System](https://github.com/SumitSingh-code/ashoka-hotel) | Hospitality website plus an offline billing/POS system built for hotel and restaurant operations |
 | [Portfolio](https://github.com/SumitSingh-code/portfolio) | Personal portfolio website |
 | [Sumit Labs](https://sumit-labs.vercel.app/) | My independent product and development space |
 
@@ -60,7 +60,7 @@ I'm **Sumit Singh**, a BCA student at **Chaudhary Ranbir Singh University (CRSU)
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,sqlite,mysql,firebase,supabase,git,github,linux,vscode&perline=9" alt="Technologies and tools" />
 </p>
 
-**Areas I work with:** Frontend Development · Backend Development · REST APIs · Databases · Desktop Applications · UI Implementation
+**Areas I work with:** Frontend Development · Backend Development · REST APIs · Databases · Offline Desktop Applications · Billing/POS Systems · UI Implementation
 
 ## GitHub Snapshot
 
@@ -74,7 +74,7 @@ I'm **Sumit Singh**, a BCA student at **Chaudhary Ranbir Singh University (CRSU)
 ## Let's Connect
 
 - **GitHub:** [@SumitSingh-code](https://github.com/SumitSingh-code)
-- **UniGram:** [unigrajind.site](https://unigrajind.site/)
+- **UniGram:** [unigramjind.site](https://unigramjind.site/)
 - **Sumit Labs:** [sumit-labs.vercel.app](https://sumit-labs.vercel.app/)
 - **VetanX:** [vetanx.site](https://vetanx.site/)
 
